@@ -1,0 +1,79 @@
+# 个人信息
+
+ - 唐宗超
+ - 男 / 1993 / 三年工作经验 / 本科 青岛大学 通信工程
+ - Github
+ > [https://github.com/Backlighting-Neo](https://github.com/Backlighting-Neo)
+ - Blog
+ > [http://www.tangzongchao.com](http://www.tangzongchao.com)
+
+# 联系方式
+
+- 15620819010
+- tjtzc@126.com
+
+# 工作经历
+
+## 2017.6 - ? 便利蜂
+
+作为前端Leader，带领一个6人小组负责便利蜂便利店门店端所有涉及售卖的业务，其中前端项目16个，后端项目1个。前端项目以ReactNative技术栈为主，负责整体业务的把控，基础技术框架的输出，后端以Node为主，对接公司内其他业务系统。
+
+### 前端项目
+
+前端项目主要为便利蜂便利店卖场内各类以售卖为目的的设备，例如收银机、自助核验设备、广告屏等等共计16个项目的开发维护，技术栈以RN为主，后期在业务日渐复杂的情况下逐步引入了Rx.js以及一些函数式编程的库。
+
+### 后端项目
+
+搭建了一个以前端为主，以设备为唯独的独立监控体系，依托ELK和Grafana对所有运行着RN项目的设备进行24小时监控。
+
+## 2015.6 - 2017.6 小红唇
+
+### 前端项目
+
+小红唇Wap端H5页面和小红唇App内的ReactNative混合页面。助战从
+
+### 后端项目
+
+天天跟我买小程序后端微服务化迁移，负责三分之一的微服务开发，使用Spring。
+
+# 技能
+
+# 其他
+
+## 开源项目
+
+### Vue2MINA
+
+由于 ```天天跟我买``` 项目业务要求，H5版本和小程序版本同时维护，加之人手不足，故独立开发了一个从Vue到微信小程序的代码转换器，节省了大量的人力时间。
+
+由于我们的H5前端技术选型采用Vue，微信小程序的语法非常接近Vue语法，故采用了这种办法来加快开发速度。
+
+使用了`Recast`框架对js进行AST级别的拆分，修改后再重新生成js达到重构的目的。同样对于css进行rules级别的修改，对于html，按照xml解析后进行语法修改然后prettify后进行输出。
+
+项目在Github上开源并发布在npm上
+
+npm  [https://www.npmjs.com/package/vue2mina](https://www.npmjs.com/package/vue2mina)
+Github [https://github.com/Backlighting-Neo/Vue2Mina](https://github.com/Backlighting-Neo/Vue2Mina)
+
+### Uno在线版
+
+Uno是一种卡牌游戏，在一次同学聚会中发现异常好玩且游戏规则简单，加之女朋友非常喜欢，故完成了一个基于`Node` `Websocket`和 `Vue`的在线版Uno，方便远程玩。项目目前部署在Linode上。
+
+注意，这并不是造轮子，考察了市面上的在线Uno，不是Steam系的很贵，就是粗制滥造，所以才萌生了自己搞一个的想法。
+
+2017年春节期间完成，包括Icon的PS绘制，服务端的整体构架和前端UI的实现。
+Github [https://github.com/Backlighting-Neo/uno](https://github.com/Backlighting-Neo/uno)
+
+## 技术分享
+
+### ReactNative入门【应届生培训】
+
+[KeyNote查看](https://github.com/Backlighting-Neo/PublicDocument/blob/master/ReactNativeAtBlibee.pdf)
+
+### 基于ELK的业务实时监控系统
+
+[KeyNote查看](https://github.com/Backlighting-Neo/PublicDocument/blob/master/ELKbasedDeviceMonitorSystem.pdf)
+
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
