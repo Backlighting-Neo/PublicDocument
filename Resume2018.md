@@ -14,7 +14,7 @@
 
 # 工作经历
 
-## 2017.6 - ? 便利蜂
+## 2017.6 - 2018.6 便利蜂
 
 作为前端Leader，带领一个6人小组负责便利蜂便利店门店端所有涉及售卖的业务，其中前端项目16个，后端项目1个。前端项目以ReactNative技术栈为主，负责整体业务的把控，基础技术框架的输出，后端以Node为主，对接公司内其他业务系统。
 
@@ -25,18 +25,32 @@
 ### 后端项目
 
 搭建了一个以前端为主，以设备为唯独的独立监控体系，依托ELK和Grafana对所有运行着RN项目的设备进行24小时监控。
+以node为主要开发语言，监控ELK日志系统上的日志是否正常，并接收来自Grafana产生的报警数据，打通公司内其他系统，对日志进行实时的DSL处理，并与其他系统使用Kafka共享数据。
 
 ## 2015.6 - 2017.6 小红唇
 
 ### 前端项目
 
-小红唇Wap端H5页面和小红唇App内的ReactNative混合页面。助战从
+小红唇Wap端H5页面和小红唇App内的ReactNative混合页面，参考CodePush自建RN的热更新体系，整体前端服务架构单人完成，包括服务器购买https证书购买上线部署等，整体前端架构从上古时代迁移到以Vue为主框架的方案。
 
 ### 后端项目
 
-天天跟我买小程序后端微服务化迁移，负责三分之一的微服务开发，使用Spring。
+天天跟我买小程序后端微服务化迁移，负责三分之一的微服务开发，使用SpringCloud，配合Eureka,Feign,Hystrix。
 
 # 技能
+
+## 前端
+
+React Vue
+
+## 后端
+
+
+
+## 数据库
+
+
+
 
 # 其他
 
@@ -68,9 +82,13 @@ Github [https://github.com/Backlighting-Neo/uno](https://github.com/Backlighting
 
 ### ReactNative入门【应届生培训】
 
+在便利蜂对新入职的应届生进行RN体系的培训
+
 [KeyNote查看](https://github.com/Backlighting-Neo/PublicDocument/blob/master/ReactNativeAtBlibee.pdf)
 
 ### 基于ELK的业务实时监控系统
+
+请参见工作项目中便利蜂后段项目一节，这个分享是在系统上线后对整个系统涉及的一个分享。
 
 [KeyNote查看](https://github.com/Backlighting-Neo/PublicDocument/blob/master/ELKbasedDeviceMonitorSystem.pdf)
 
