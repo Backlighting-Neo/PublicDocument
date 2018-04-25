@@ -56,15 +56,15 @@ Java端以SpringCloud为主，辅助以Eureka和Feign实现简易的微服务。
 
 ElasticSearch能够进行简单的分片维护，带聚合等复杂操作的DSL编写。
 
-# 其他
+## 其他
 
 搭建过ELK日志系统，自己配置es logstash和kibana，参与过odps的数据清洗平台的搭建。
 
 研究过TensorFlow（js实现）的一点点内容，实现过demo级别的简单图。
 
-## 开源项目
+# 开源项目
 
-### Vue2MINA
+## Vue2MINA
 
 由于 ```天天跟我买``` 项目业务要求，H5版本和小程序版本同时维护，加之人手不足，故独立开发了一个从Vue到微信小程序的代码转换器，节省了大量的人力时间。
 
@@ -77,7 +77,7 @@ ElasticSearch能够进行简单的分片维护，带聚合等复杂操作的DSL�
 npm  [https://www.npmjs.com/package/vue2mina](https://www.npmjs.com/package/vue2mina)
 Github [https://github.com/Backlighting-Neo/Vue2Mina](https://github.com/Backlighting-Neo/Vue2Mina)
 
-### Uno在线版
+## Uno在线版
 
 Uno是一种卡牌游戏，在一次同学聚会中发现异常好玩且游戏规则简单，加之女朋友非常喜欢，故完成了一个基于`Node` `Websocket`和 `Vue`的在线版Uno，方便远程玩。项目目前部署在Linode上。
 
@@ -86,15 +86,15 @@ Uno是一种卡牌游戏，在一次同学聚会中发现异常好玩且游戏�
 2017年春节期间完成，包括Icon的PS绘制，服务端的整体构架和前端UI的实现。
 Github [https://github.com/Backlighting-Neo/uno](https://github.com/Backlighting-Neo/uno)
 
-## 技术分享
+# 技术分享
 
-### ReactNative入门【应届生培训】
+## ReactNative入门【应届生培训】
 
 在便利蜂对新入职的应届生进行RN体系的培训
 
 [KeyNote查看](https://github.com/Backlighting-Neo/PublicDocument/blob/master/ReactNativeAtBlibee.pdf)
 
-### 基于ELK的业务实时监控系统
+## 基于ELK的业务实时监控系统
 
 请参见工作项目中便利蜂后段项目一节，这个分享是在系统上线后对整个系统涉及的一个分享。
 
